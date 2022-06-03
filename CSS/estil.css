@@ -1,0 +1,21 @@
+li{
+    list-style: none;
+    margin-left: 40px;
+    color: rgb(6, 209, 23);
+    
+  
+    padding: 10px;
+    
+
+
+}
+
+
+nav{
+
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
